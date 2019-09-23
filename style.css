@@ -1,0 +1,148 @@
+body {
+	background-color: #efeae5;
+	font-family: Comfortaa;
+}
+
+#mainNavbar .nav-link {
+	color: #3c332b;
+	text-transform: uppercase;
+	font-size: 1.1em;
+	background-color: #d7bab4;
+}
+
+
+#mainNavbar .navbar-brand {
+	text-transform: uppercase;
+	color: #3c332b;
+	font-size: 1.5em;
+}
+
+#mainNavbar button {
+	color: #3c332b;
+	border: 1px solid #3c332b;
+}
+
+#mainNavbar button:hover {
+	background-color: #a59a6f;
+}
+
+#slides img {
+	height: 576px;
+}
+
+#slides .carousel-item img {
+	object-fit: cover;
+	height: 706px;
+	width: 1210px;
+}
+
+#slides .carousel-caption #nameOfReciepe {
+	color: #3c332b;
+	font-size: 1.5em; 
+	background-color: rgba(240, 223, 215, 0.5);
+	
+}
+
+#slides .carousel-caption .btn {
+	text-decoration: none;
+	color: #3c332b;
+	background-color: rgba(240, 223, 215, 0.5);
+	font-size: 1.5em;
+}
+#slides .carousel-caption .btn:hover {
+	background-color: #d7bab4;
+}
+
+#articles .card {
+	
+
+	/*max-height: 700px;*/
+	color: #3c332b;
+}
+
+
+#articles .btn {
+	background-color: #f0dfd7;
+	color: #3c332b;
+	position: absolute;
+	left: 20px;
+	bottom: 20px;
+
+}
+
+#articles .btn:hover {
+	background-color: #d7bab4;
+	
+}
+
+footer a {
+	color: #3c332b;
+	margin: 0px, 10px;
+}
+
+footer a:hover {
+	text-decoration: none;
+	background-color: #d7bab4;
+	color: #3c332b;
+}
+
+
+#sticky-sidebar .btn {
+	background-color: #f0dfd7;
+	color: #3c332b;
+	position: absolute;
+	left: 20px;
+	bottom: 20px;
+}
+
+
+#sticky-sidebar .btn:hover {
+	background-color: #d7bab4;
+}
+
+#articleText {
+	font-size: 1.15em;
+}
+
+#articleText h5 {
+	font-weight: 700;
+	padding-top: 15px;
+}
+#articleText h4 {
+	font-weight: 700;
+	padding-top: 15px;
+}
+#solutionLine {
+	border-left: 2px solid #605b48;
+	margin-left: 1.5%;
+	padding-left: 1.5%;
+}
+#reciepsBtn .btn {
+	background-color: #f0dfd7;
+	color: #3c332b;
+}
+#reciepsBtn .btn:hover {
+		background-color: #d7bab4;
+}
+
+#h3Ingredients {
+	padding-left: 46.125px;
+}
+
+.container-fluid hr {
+	padding-left: 46.125px;
+}
+
+#italic {
+	font-style: italic;
+	color: rgba(60, 51, 43, 0.65);
+}
+#directions{
+	font-size: 1.1rem;
+}
+
+
+
+.reciepSteps:hover {
+	background-color: #f0dfd7;
+}
